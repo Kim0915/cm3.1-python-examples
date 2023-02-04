@@ -2,9 +2,8 @@
 
 |     Topics                        |
 | --------------------------------- |
-| Print & Strings                   |
-| Data Types                        | 
-| Variables                         |
+| Variables                         | 
+| Data Types                        |
 | Integer Operations                |
 | Booleans & Conditional Statements |
 | For Loops                         |
