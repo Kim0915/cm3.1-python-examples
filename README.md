@@ -2,7 +2,7 @@
 # Python Practice Questions Examples
 
 ## Goals
-Easy problems that slowly build up in difficulty. Meant to be practiced in repetition. Ideally 10+ problems of each example type to really ingrain the concepts into the students.
+Problems are meant to be done on pencil/paper by the student. After completing the problems, students should check their answers by typing the code out on Replit and running
 
 ## Variables
 
