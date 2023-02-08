@@ -2,6 +2,7 @@
 This document will address the different types of exercise examples we are looking for and the guidelines that constitute the question types.
 The lesson topics are each separated into a number of question types that scale gradually in difficulty. 
 
+
 ## Topic 1: Variables
 This topic will cover basic variable concepts learned in Python 1
 #### Type 1: Single Variable Values
@@ -75,6 +76,7 @@ print(str(x+y))
 ~~~
 What will be printed as a result?
 
+
 ## Topic 3: Booleans & Conditional Statements
 This topic will cover Boolen values and conditional statements. Students should understand boolean values and boolean operators. Additionally, students should be able to construct conditional statements and identify results using proper logic.
 
@@ -131,6 +133,7 @@ else:
 ~~~
 What will be printed out to the console?
 
+
 ## Topic 4: For Loops
 This topic will cover for loops. Students should be able to use for loops to iterate through ranges. We will practice how to iterate through other iterable objects in the later topics
 
@@ -165,5 +168,102 @@ for i in range(2):
 
 How many times will "Hello" be printed to the console. How about "World"?
 
+
 ## Topic 5: While Loops
+
+#### Type 1: Complete the Loop
+These questions will involve choosing/filling in the correct answer to complete the loop with desired output.
+*Example*:
+~~~python
+x = 0
+
+while x < 7:
+  print("Hello")
+  x += ___
+  
+~~~
+
+Fill in the blank to print "Hello" 7 times.
+
+#### Type 2: Condition to stop
+These questions will involve while loops where students must identify the correct condition to "stop" the loop
+*Example:*
+~~~python
+import random
+running = True
+
+while running:
+  x = random.randint(10)
+  if _______:
+    running = False
+print(x)
+~~~
+
+What can we put in the blank to print the number 5?
+
+#### Type 3: Loop Conversion
+Convert a For loop to a while loop and vice versa
+*Example:*
+~~~python
+for i in range(5):
+  print(i)
+~~~
+Create a while loop that will print the same output as the above for loop
+
+
+## Topic 6: Functions
+
+#### Type 1: Basic Identification
+These questions should have students identifying the components of a function.
+*Example*:
+~~~python
+def sayHello():
+  print("Hello")
+  return 0
+~~~
+What is the returned `value` of this function
+
+or 
+
+~~~python
+def addOne(x):
+  return x + 1
+~~~
+What is the `input` for this function?
+
+#### Type 2: I/O
+These questions should have students practicing with input and outputs of functions to get the desired result
+*Example:*
+~~~python
+def subtractTwo(x):
+  return x - 2
+ 
+________
+~~~
+Fill in the blank to print out the number `5`
+
+~~~python
+def square(__):
+  return z ** 2
+~~~
+Fill in the input to complete the function
+or
+~~~python
+def addOne(p):
+  return ______
+~~~
+Fill in the blank to make the function `addOne()` add 1 to the input.
+
+#### Type 3: Fulfill a Purpose
+These questions will have students creating functions to fulfill some type of purpose. The goal should be relatively simple to achieve.
+*Example:*
+~~~python
+______________
+
+______________
+
+______________
+~~~
+Create a function to add 2 numbers together.
+  
 
