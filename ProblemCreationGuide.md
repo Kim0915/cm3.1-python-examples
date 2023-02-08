@@ -328,5 +328,155 @@ The final result of fruits should be ["Apple", "Pear", "Orange"]
 
 
 ## Topic 8: String Functions
+For this topic, we will only utilize the string functions that are covered in Python 1-2. The methods are as follows:
+- `count()`
+- `index()`
+- `lower()` and `higher()`
+- `join()`
+- `replace()`
+- `split()`
+#### Type 1: Guess the Outcome
+These questions will involve manipulating strings using string methods. Students should be able to determine the output of the given code. Code should only involve one string function at a time.
+*Example:*
+~~~python
+myString = "Vegetables"
+print(myString.count("e"))
+~~~
+What will be printed to the console?
 
-#### Type 1:
+#### Type 2: Choose the Correct Function
+These questions will involve selecting the correct String method in the given code. the answer and question should only involve 1 string method.
+*Example:*
+~~~python
+myString = "FrUiTs"
+print(myString.______)
+~~~
+Fill in the blank to print out "fruits"
+
+#### Type 3: Methods in Conjunction
+These questions will involve both guessing the outcome and choosing the correct method with 2 or more string functions used in conjunction.
+*Example:*
+~~~python
+fruits = "strawberries"
+print(fruits.count("r") + fruits.index("s")
+~~~
+
+#### Type 4: Fulfill a Purpose
+These questions will involve using string methods to fulfill some sort of purpose or task. The tasks should be relatively simple.
+*Example:*
+~~~python
+x = "HELLO"
+__________________
+
+__________________
+
+__________________
+~~~
+Write some code to check if the variable x is all uppercase. If it is, print ("yes"). If it isn't, print ("no").
+
+
+## Topic 9: Dictionaries
+
+#### Type 1: Basic Key & Value
+These questions should focus on identifying keys and values of Python dictionaries.
+*Example:*
+~~~python
+shop = {
+  "Boots": 10,
+  "Shirt": 5,
+  "Hats": 2
+  }
+~~~
+Which `key` has the `value` 2?
+
+#### Type 2: Intermediate Key & Value
+These questions will involve retrieving, changing, and adding keys/values from a dictionary.
+*Example:*
+~~~python
+shop = {
+  "Boots": 10,
+  "Shirt": 5,
+  "Hats": 2
+  }
+  
+  print(shop[___])
+~~~
+Fill in the blank to print the number 10.
+
+#### Type 3: Advanced Key & Value
+These questions will involve parsing dictionary keys and values to retrieve/change values.
+*Example:*
+~~~python
+foods = {
+  "tomato": 10,
+  "potato": 20,
+  "corn": 100
+  }
+  
+for k, v in foods.items():
+  if v > 10:
+    print(k)
+    
+~~~
+What will be printed to the console as a result of the for loop?
+
+#### Type 4: Fulfill a Purpose
+These questions will use dictionaries to fulfill some type of purpose or task. The task should be relatively simple.
+*Example:*
+~~~python
+#Movie Ratings
+movies = {
+  "Whiplash": 10,
+   "Despicable Me": 10,
+   "Sesame Street Special": 100
+   }
+
+_______________________________
+
+_______________________________
+
+_______________________________
+~~~
+There was an error in the movie ratings. Change "Sesame Street Special" to be a rating between 1-10
+
+#### Type 5: Advanced Parsing
+These questions should be similar to type 4: `fulfill a purpose` but should involve using loops and conditional statements to achieve the required task.
+*Example:*
+~~~python
+#Favorite Colors
+students = {
+  "Alex": "red",
+   "Jenny": "blue",
+   "Fox": "magenta",
+   "Blake": "purple"
+   }
+   
+______________________________________
+
+______________________________________
+
+______________________________________
+
+______________________________________
+
+~~~
+Write code to print a student's favorite color `if` their name contains more than 3 letters.
+
+
+## Topic 10: Algorithms
+These questions will involve very simple algorithmic problems. These questions should be very simple (easier than Leetcode Easy) and test the student's ability to utilize all topics (1-9) to solve some type of problem. Keep in mind, these questions should only use the topics learned in 1-9 and should not have to use any native python functions not covered such as `tuple()`, `set()`, etc..
+*Example:*
+~~~python
+nums = [1,10,5,3,5,11]
+highest = 0
+
+____________________________________
+
+____________________________________
+
+____________________________________
+~~~
+Use a `for` loop to find the highest number in the list `nums`.
+  
+
+
