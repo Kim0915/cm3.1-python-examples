@@ -266,4 +266,67 @@ ______________
 ~~~
 Create a function to add 2 numbers together.
   
+  
+## Topic 7: Lists
 
+#### Type 1: List Index
+These questions should focus on identifying the index of certain values in a list.
+*Example:*
+~~~python
+vegetables = ["Onion", "Potato", "Celery"]
+~~~
+What index is the string `"Onion"` in?
+or
+~~~python
+fruits = ["Tomato", "Guava", "Pineapple"]
+print(fruits[___])
+~~~
+Fill in the blank to print the word "Pineapple"
+
+#### Type 2: Basic List Functions
+These questions should have students identifying the result using exactly 1 list method
+*Example:*
+|Word Bank|
+| ------- |
+| append()|
+| pop()   |
+| add()   |
+| insert()|
+
+~~~python
+fruits = ["apple", "orange", "banana"]
+fruits._____("grape")
+~~~
+Which function can we use from the word bank to add "grape" to the end of the list.
+
+#### Type 3: Intermediate List Functions
+These questions should have students identifying results with 2 or more list functions involved
+*Example:*
+~~~python
+veges = ["celery", "lettuce", "eggplant"]
+veges.pop(-1)
+veges.append("spinach")
+
+print(veges)
+~~~
+What are the elements of the list `veges`?
+
+#### Type 4: Fulfill a Purpose
+These questions should challenge students to fulfill some type of task given a list.
+*Example:*
+~~~python
+fruits = ["Mango", "Apple", "Pear"]
+
+__________________________________
+
+__________________________________
+
+__________________________________
+~~~
+Remove the first item in the list, then add "Orange" to the end of the list.
+The final result of fruits should be ["Apple", "Pear", "Orange"]
+
+
+## Topic 8: String Functions
+
+#### Type 1:
