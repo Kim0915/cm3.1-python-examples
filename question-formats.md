@@ -108,3 +108,17 @@ print(x, y, z)
 ~~~
 What will be printed out to the console?
 
+
+## Format 5: Write the Code / Fulfill a Purpose
+These questions should give the student some goal or task. The student must write their code from scratch to complete the task. The question should be simpler to execute then any of the other question formats, because they will write it from scratch.
+
+*Example:*
+~~~python
+
+_________________________
+
+_________________________
+
+_________________________
+~~~
+Write a function to add two numbers together.
