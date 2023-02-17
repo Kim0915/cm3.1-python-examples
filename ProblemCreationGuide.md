@@ -2,6 +2,7 @@
 This document will address the different types of exercise examples we are looking for and the guidelines that constitute the question types.
 The lesson topics are each separated into a number of question types that scale gradually in difficulty. 
 
+**Note:** Question length should be kept relatively short. Question submissions may be denied if they are too long.
 ## Topic 1: Variables
 This topic will cover basic variable concepts learned in Python 1
 #### Type 1: Single Variable Values
