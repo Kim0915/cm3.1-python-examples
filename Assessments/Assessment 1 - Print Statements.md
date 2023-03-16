@@ -58,6 +58,9 @@ print("5+5", "is equal to", 5+5)
 ~~~
 10. ______
 
+
+<br/>
+
 ## Section 2
 Read the following code and write the result. If it will result in an error, you may write "error", then explain what/where the error is
 
@@ -88,8 +91,11 @@ print(5 + 5 + 23, 10)
 6. ______
 
 
+<br/>
+
+
 ## Section 3
-Write the code **on a single line** to produce the desired result. You can replace anything in the * * with a desired word.
+Write the code **on a single line** to print the following on the console. You can replace anything in the * * with a desired word.
 
 
 ~~~console
