@@ -30,7 +30,7 @@ print("1+1")
 5. ______
 
 ~~~python
-print("There are", 3+2, "coders in this class"
+print("There are", 3+2, "coders in this class")
 ~~~
 6. ______
 
