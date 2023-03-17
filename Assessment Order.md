@@ -7,3 +7,4 @@ The purpose of the assessments is to make sure that students are learning the co
 | Assessment Number | Assessment Topic | Testing Requirement|
 | :---------------: | :--------------: | :----------------: |
 | 1                 | Print Statements | 95%                |
+| 2                 | Variables        | 90%                |
