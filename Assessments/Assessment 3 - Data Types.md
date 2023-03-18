@@ -3,7 +3,7 @@
 ## Section 1
 Write whether the following data is an example of a `string`, `integer`, `float`, or `neither`
 
-1."Integer"
+1. "Integer"
 2. String
 3. 55
 4. "55"
