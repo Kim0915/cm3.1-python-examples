@@ -19,3 +19,17 @@ Write the result of the following operations
 13. 3 % 16
 14. 10 % 109
 15. (3 % 5) - (3 % 3) - (2 // 4) - (2\*\*3)
+
+## Section 2
+Fill in the blank to output the correct values
+
+1. 3 ___ 3 = 1
+2. 3 ___ 3 = 0
+3. 10 ___ 5 = 0
+4. 14 ___ 3 = 2
+5. 10 ___ 3 = 30
+6. 12 ___ 4 = 8
+7. 10 ___ 2 = 100
+8. 24 % ___ = 11
+9. 14 ___ 4 = 2
+10. 3 ___ 3 = 6
