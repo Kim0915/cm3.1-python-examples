@@ -23,7 +23,7 @@ Fill in the blank to make the statement `True`
 4. 3 ___ 300
 5. 4 ___ 3
 
-## Section 3
+## Section 2.5
 Fill in the blank to make the statement `False`
 
 1. 1 ___ 2
@@ -32,7 +32,7 @@ Fill in the blank to make the statement `False`
 4. 3 ___ 300
 5. 4 ___ 3
 
-## Section 4
+## Section 3
 Using the symbols provided, create a `True` statement:
 1.
 |Symbols|
