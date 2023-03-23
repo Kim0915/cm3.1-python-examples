@@ -175,3 +175,14 @@ _____
 _____
 _____
 
+## Section 4
+Use Python Turtle to draw a square using a for loop
+
+~~~python
+import turtle
+t = turtle.Turtle()
+~~~
+_____
+_____
+_____
+_____
