@@ -8,3 +8,9 @@ The purpose of the assessments is to make sure that students are learning the co
 | :---------------: | :--------------: | :----------------: |
 | 1                 | Print Statements | 95%                |
 | 2                 | Variables        | 90%                |
+| 3                 | Data Types       | 90%                |
+| 4                 | Integer Operations| 90%               |
+| 5                 | Booleans         | 90%                |
+| 6                 | Conditional Statements| 85%           |
+| 7                 | For Loops         | 85%               |
+| 8                 | While Loops       | 85%               |
