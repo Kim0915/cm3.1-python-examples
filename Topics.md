@@ -3,6 +3,7 @@
 |     Topics                        | Subtopics                                                            |
 | --------------------------------- | -------------------------------------------------------------------- |
 | Print Statements                  | print()                                                              |
+|                                   | 
 | Variables                         | Single Variable values                                               |
 |                                   | Two Variable Values                                                  |
 |                                   | Multiple Variable Values                                             |
