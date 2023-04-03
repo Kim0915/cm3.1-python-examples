@@ -20,7 +20,7 @@ print("Coding"+"Minds"+ "Academy")
 3. ______
 
 ~~~python
-print(1+1)
+print("Hello friend")
 ~~~
 4. ______
 
@@ -30,7 +30,7 @@ print("1+1")
 5. ______
 
 ~~~python
-print("There are", 3+2, "coders in this class")
+print("There are", 5, "coders in this class")
 ~~~
 6. ______
 
@@ -41,15 +41,13 @@ print("There are 5+5 coders in this class")
 
 ~~~python
 print("Hello")
-print("World\n!")
+print("World!")
 ~~~
 8. ______
 
 ~~~python
-print(5+5)
-print(3+3)
-print("2" + "2")
-print("2+2")
+print("Hello")
+print("Coders")
 ~~~
 9. ______
 
@@ -62,11 +60,11 @@ print("5+5", "is equal to", 5+5)
 <br/>
 
 ## Section 2
-Read the following code and write the result. If it will result in an error, you may write "error", then explain what/where the error is
+Read the following code and write the result.
 
 
 ~~~python
-print("Hello"+ World)
+print("Hello"+ "World")
 ~~~
 1. ______
 
@@ -81,12 +79,12 @@ print("3" + "22")
 3. ______
 
 ~~~python
-print(3 + "22")
+print(3 + 22)
 ~~~
 5. ______
 
 ~~~python
-print(5 + 5 + 23, 10)
+print(23, 10)
 ~~~
 6. ______
 
@@ -95,13 +93,15 @@ print(5 + 5 + 23, 10)
 
 
 ## Section 3
-Write the code **on a single line** to print the following on the console. You can replace anything in the * * with a desired word.
+Write the code to print the following on the console.
 
 
 ~~~console
-Hello *name*, my name is *name*
+Hello John, my name is Frank
 ~~~
 1. ______
+ ______
+  ______
 
 ~~~console
 Hello
@@ -109,12 +109,13 @@ Coding
 Minds!
 ~~~
 2. ______
+ ______
+  ______
 
 ~~~console
-________
-| o  o |
-|  __  |
- \____/
+Coders Rule
+!
 ~~~
 3. ______
-
+ ______
+  ______
